@@ -1,1 +1,1 @@
-# timer
+# Mobile timer app
